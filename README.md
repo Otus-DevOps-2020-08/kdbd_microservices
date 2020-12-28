@@ -9,3 +9,6 @@ kdbd microservices repository
 Docker-machine настроен на yc  
 Reddit app контейнер создан и запущен на виртуалке в yc при помощи docker-machine  
 Создан dockerhub аккаунт, reddit app образ добавлен на dockerhub  
+
+## Домашнее задание docker-3
+
